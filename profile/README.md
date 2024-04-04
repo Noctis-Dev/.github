@@ -1,12 +1,11 @@
-## Hi there 👋
+¡Hola a todos! 👋
 
-<!--
+¡Bienvenidos al repositorio oficial del equipo Noctis-Dev en GitHub!
 
-**Here are some ideas to get you started:**
+Proyecto LeafFounding 🌿
+Estamos emocionados de compartir con ustedes el código que hemos desarrollado y utilizado en nuestro proyecto LeafFounding. LeafFounding tiene como objetivo dar a conocer proyectos verdes que necesien el apoyo economico para realizarce.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Repositorios 📁
+Aquí encontrarán cuatro repositorios distintos, cada uno dedicado a una parte específica de nuestro proyecto. No duden en explorarlos y descubrir todo lo que hemos creado:
+
+¡Gracias por visitar nuestro repositorio! Esperamos que encuentren nuestros recursos útiles y disfruten explorando nuestro trabajo. ¡Adelante, exploren y diviértanse! 🚀
